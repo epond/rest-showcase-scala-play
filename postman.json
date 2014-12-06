@@ -1,0 +1,35 @@
+{
+  "id": "ef94f96b-7157-5882-b6dc-66095b65c0b8",
+  "name": "Showcase Scala-Play",
+  "timestamp": 1417872947830,
+  "requests": [
+    {
+      "collectionId": "ef94f96b-7157-5882-b6dc-66095b65c0b8",
+      "id": "1d5757e1-bb6f-e68f-3971-5b1acade8984",
+      "name": "basic",
+      "description": "",
+      "url": "localhost:9000/basic",
+      "method": "POST",
+      "headers": "",
+      "data": "wow upper",
+      "dataMode": "raw",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "ef94f96b-7157-5882-b6dc-66095b65c0b8",
+      "id": "a50e97f6-fc3b-19b9-546d-3f79b3637f35",
+      "name": "showcae",
+      "description": "",
+      "url": "localhost:9000/showcase",
+      "method": "POST",
+      "headers": "",
+      "data": "{\n    \"input\": \"md5 me please\"\n}",
+      "dataMode": "raw",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    }
+  ]
+}

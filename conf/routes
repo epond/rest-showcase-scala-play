@@ -5,3 +5,4 @@
 # Home page
 GET     /                           controllers.Application.index
 POST    /basic                      controllers.Showcase.basic
+POST    /showcase                   controllers.Showcase.showcase
